@@ -1,0 +1,44 @@
+<div style="width: 100%; height: 100%; position: relative; background: white">
+    <div style="width: 648px; height: 1024px; left: 0px; top: 0px; position: absolute; box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25); border: 4px #0F5738 solid"></div>
+    <div style="left: 252px; top: 847px; position: absolute; justify-content: flex-start; align-items: flex-end; gap: 22px; display: inline-flex">
+        <div style="width: 32px; height: 38px; border: 1px black solid"></div>
+        <div style="width: 27px; height: 27px; position: relative">
+            <div style="width: 27px; height: 27px; left: 0px; top: 0px; position: absolute; background: black"></div>
+        </div>
+        <div style="width: 34px; height: 34px; border: 1px black solid"></div>
+    </div>
+    <div style="left: 168.50px; top: 774px; position: absolute; justify-content: flex-start; align-items: center; gap: 12px; display: inline-flex">
+        <div style="width: 104px; height: 0px; border: 2px black solid"></div>
+        <div style="text-align: center; color: black; font-size: 20px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Or With</div>
+        <div style="width: 104px; height: 0px; border: 2px black solid"></div>
+    </div>
+    <div style="left: 186px; top: 334px; position: absolute; text-align: center; color: #0F5738; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">EMAIL</div>
+    <div style="left: 186px; top: 427px; position: absolute; text-align: center; color: #0F5738; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">PASSWORD</div>
+    <div style="width: 140px; height: 20px; left: 342px; top: 581px; position: absolute; text-align: center; color: #0F5738; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Forgot Password?</div>
+    <div style="width: 330px; height: 0px; left: 152px; top: 361px; position: absolute; border: 1px black solid"></div>
+    <div style="width: 330px; height: 0px; left: 152px; top: 454px; position: absolute; border: 1px black solid"></div>
+    <div style="width: 30px; height: 30px; left: 152px; top: 416px; position: absolute">
+        <div style="width: 20px; height: 26.25px; left: 5px; top: 1.25px; position: absolute; background: rgba(0, 0, 0, 0.75)"></div>
+    </div>
+    <div style="width: 30px; height: 30px; left: 152px; top: 323px; position: absolute">
+        <div style="width: 20px; height: 20px; left: 5px; top: 5px; position: absolute; background: rgba(0, 0, 0, 0.75)"></div>
+    </div>
+    <div style="width: 170px; height: 58px; left: 236px; top: 138px; position: absolute; text-align: center; color: black; font-size: 48px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Sign Up</div>
+    <div style="left: 186px; top: 517px; position: absolute; text-align: center; color: #0F5738; font-size: 16px; font-family: Roboto; font-weight: 400; word-wrap: break-word">CONFIRM PASSWORD</div>
+    <div style="width: 330px; height: 0px; left: 152px; top: 545px; position: absolute; border: 1px black solid"></div>
+    <div style="width: 30px; height: 30px; left: 152px; top: 506px; position: absolute">
+        <div style="width: 20px; height: 26.25px; left: 5px; top: 1.25px; position: absolute; background: rgba(0, 0, 0, 0.75)"></div>
+    </div>
+    <div style="width: 262px; padding-top: 15px; padding-bottom: 14px; padding-left: 87px; padding-right: 87px; left: 186px; top: 647px; position: absolute; background: #56B280; border-radius: 10px; overflow: hidden; justify-content: center; align-items: center; display: inline-flex">
+        <div style="text-align: center; color: white; font-size: 24px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Register</div>
+    </div>
+    <div style="width: 271px; height: 40px; left: 184px; top: 237px; position: absolute; text-align: center"><span style="color: black; font-size: 20px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Have an account already, </span><span style="color: #0F5738; font-size: 20px; font-family: Roboto; font-weight: 600; word-wrap: break-word">login</span><span style="color: black; font-size: 20px; font-family: Roboto; font-weight: 400; word-wrap: break-word"> here!</span></div>
+    <div style="width: 792px; height: 307px; left: 648px; top: 717px; position: absolute; background: linear-gradient(180deg, #499273 0%, rgba(217, 217, 217, 0) 100%); box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)"></div>
+    <div style="width: 792px; height: 307px; left: 1440px; top: 307px; position: absolute; transform: rotate(-180deg); transform-origin: 0 0; background: linear-gradient(180deg, #499273 0%, rgba(157.75, 187.79, 175.03, 0.41) 59%, rgba(217, 217, 217, 0) 100%); box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)"></div>
+    <div style="width: 439px; height: 100px; left: 824px; top: 462px; position: absolute">
+        <div style="left: 100px; top: 26px; position: absolute; color: black; font-size: 60px; font-family: Roboto; font-weight: 500; word-wrap: break-word">HouseReady</div>
+        <div style="width: 100px; height: 100px; left: 0px; top: 0px; position: absolute">
+            <div style="width: 93.75px; height: 81.25px; left: 0px; top: 10.64px; position: absolute; background: black"></div>
+        </div>
+    </div>
+</div>
