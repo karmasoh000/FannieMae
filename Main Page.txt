@@ -1,0 +1,130 @@
+<div style="width: 100%; height: 100%; position: relative; background: white">
+    <div style="width: 1440px; height: 460px; left: 0px; top: 2315px; position: absolute">
+        <div style="width: 1440px; height: 76px; left: 0px; top: 384px; position: absolute">
+            <div style="width: 1440px; height: 76px; left: 0px; top: 0px; position: absolute; background: #E5E5E5"></div>
+            <div style="width: 445px; height: 24px; left: 165px; top: 25px; position: absolute; color: #5E6E89; font-size: 16px; font-family: Poppins; font-weight: 400; line-height: 28px; word-wrap: break-word">©HouseReady All Rights Reserved.</div>
+        </div>
+        <div style="width: 1440px; height: 383px; left: 0px; top: 0px; position: absolute">
+            <div style="width: 1440px; height: 383px; left: 0px; top: 0px; position: absolute; background: black"></div>
+            <div style="width: 170px; height: 164px; left: 1075px; top: 104px; position: absolute">
+                <div style="width: 168px; height: 24.85px; left: 0px; top: 139.15px; position: absolute; color: #E1E1E1; font-size: 16px; font-family: Roboto; font-weight: 500; line-height: 28.80px; word-wrap: break-word">Terms & Conditions</div>
+                <div style="width: 168px; height: 24.85px; left: 0px; top: 94.42px; position: absolute; color: #E1E1E1; font-size: 16px; font-family: Roboto; font-weight: 500; line-height: 28.80px; word-wrap: break-word">Privacy Policies</div>
+                <div style="width: 168px; height: 24.85px; left: 2px; top: 49.70px; position: absolute; color: #E1E1E1; font-size: 16px; font-family: Roboto; font-weight: 500; line-height: 28.80px; word-wrap: break-word">Contact us</div>
+                <div style="width: 168px; height: 24.85px; left: 1px; top: 0px; position: absolute; color: white; font-size: 16px; font-family: Roboto; font-weight: 700; line-height: 28.80px; word-wrap: break-word">Info</div>
+            </div>
+            <div style="width: 250px; left: 165px; top: 149px; position: absolute; color: white; font-size: 16px; font-family: Poppins; font-weight: 400; line-height: 22.80px; word-wrap: break-word">Prepare for the movers</div>
+            <div style="width: 1110px; height: 0px; left: 165px; top: 60.19px; position: absolute; border: 2px white solid"></div>
+        </div>
+        <div style="width: 250px; height: 100px; left: 165px; top: 60px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+            <div style="width: 250px; height: 100px; position: relative"></div>
+        </div>
+    </div>
+    <div style="width: 1440px; height: 601px; left: 0px; top: 845px; position: absolute">
+        <div style="width: 1440px; height: 601px; left: 0px; top: 0px; position: absolute; background: #C8DFD5"></div>
+        <div style="width: 350px; height: 322px; padding-bottom: 27px; left: 164px; top: 217px; position: absolute; box-shadow: 6px 6px 6px rgba(0, 0, 0, 0.25); justify-content: center; align-items: center; display: inline-flex">
+            <div style="width: 350px; height: 295px; position: relative; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+                <div style="width: 350px; height: 295px; background: white; box-shadow: 0px 4px 24px rgba(139, 167, 178, 0.16); border-radius: 6px"></div>
+                <img style="width: 84px; height: 84px; box-shadow: 0px 3.3600001335144043px 20.160001754760742px rgba(139, 167, 178, 0.16); border-radius: 9999px" src="https://via.placeholder.com/84x84" />
+                <div style="width: 145.95px; height: 24px; position: relative">
+                </div>
+                <div style="width: 320px; height: 23px; text-align: center; color: #7C8087; font-size: 18px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Flora</div>
+            </div>
+        </div>
+        <div style="width: 350px; height: 322px; padding-bottom: 27px; left: 545px; top: 217px; position: absolute; box-shadow: 6px 6px 6px rgba(0, 0, 0, 0.25); justify-content: center; align-items: center; display: inline-flex">
+            <div style="width: 350px; height: 295px; position: relative; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+                <div style="width: 350px; height: 295px; background: white; box-shadow: 0px 4px 24px rgba(139, 167, 178, 0.16); border-radius: 6px"></div>
+                <img style="width: 84px; height: 84px; box-shadow: 0px 3.3600001335144043px 20.160001754760742px rgba(139, 167, 178, 0.16); border-radius: 9999px" src="https://via.placeholder.com/84x84" />
+                <div style="width: 145.95px; height: 24px; position: relative">
+                </div>
+                <div style="width: 304px; height: 60px; text-align: center; color: #1D293F; font-size: 22px; font-family: Roboto; font-weight: 500; line-height: 28.80px; word-wrap: break-word">“A stress-free experience”</div>
+                <div style="width: 320px; height: 23px; text-align: center; color: #7C8087; font-size: 18px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Rachael</div>
+            </div>
+        </div>
+        <div style="width: 350px; height: 322px; padding-bottom: 27px; left: 924px; top: 217px; position: absolute; box-shadow: 6px 6px 6px rgba(0, 0, 0, 0.25); justify-content: center; align-items: center; display: inline-flex">
+            <div style="width: 350px; height: 295px; position: relative; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+                <div style="width: 350px; height: 295px; background: white; box-shadow: 0px 4px 24px rgba(139, 167, 178, 0.16); border-radius: 6px"></div>
+                <img style="width: 84px; height: 84px; box-shadow: 0px 3.3600001335144043px 20.160001754760742px rgba(139, 167, 178, 0.16); border-radius: 9999px" src="https://via.placeholder.com/84x84" />
+                <div style="width: 145.95px; height: 24px; position: relative">
+                </div>
+                <div style="width: 304px; height: 60px; text-align: center; color: #1D293F; font-size: 22px; font-family: Roboto; font-weight: 500; line-height: 28.80px; word-wrap: break-word">“Found the perfect home for my family”</div>
+                <div style="width: 320px; height: 23px; text-align: center; color: #7C8087; font-size: 18px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Matt</div>
+            </div>
+        </div>
+        <div style="width: 280px; height: 93px; left: 579px; top: 90px; position: absolute">
+            <div style="left: 0px; top: 65px; position: absolute; text-align: center; color: rgba(0, 0, 0, 0.60); font-size: 18px; font-family: Roboto; font-weight: 500; line-height: 27.60px; word-wrap: break-word">Hear from our happy homeowners!</div>
+            <div style="left: 25px; top: 0px; position: absolute; text-align: center; color: black; font-size: 40px; font-family: Roboto; font-weight: 500; line-height: 57.60px; word-wrap: break-word">Testimonials</div>
+        </div>
+    </div>
+    <div style="width: 1440px; height: 780px; left: 0px; top: 0px; position: absolute">
+        <div style="width: 1440px; height: 780px; left: 0px; top: 0px; position: absolute; background: linear-gradient(180deg, #499273 0%, rgba(255, 255, 255, 0) 100%)"></div>
+        <div style="width: 730px; height: 349px; left: 355px; top: 250px; position: absolute; background: rgba(247, 248, 250, 0.80); border-radius: 2px; backdrop-filter: blur(24px)"></div>
+        <div style="width: 424px; height: 79px; padding-left: 44px; padding-right: 44px; padding-top: 8px; padding-bottom: 8px; left: 508px; top: 559px; position: absolute; background: #56B280; border-radius: 10px; justify-content: flex-start; align-items: flex-start; gap: 10px; display: inline-flex">
+            <div style="text-align: center"></div>
+        </div>
+        <div style="width: 540px; height: 286px; left: 450px; top: 273px; position: absolute; text-align: center; color: #1D252C; font-size: 40px; font-family: Roboto; font-weight: 500; line-height: 57.60px; word-wrap: break-word">Discover if you're 'HouseReady' to make your homeownership dreams come true</div>
+    </div>
+    <div style="left: 248px; top: 3690px; position: absolute; color: white; font-size: 16px; font-family: Poppins; font-weight: 400; line-height: 28px; word-wrap: break-word">House Ready</div>
+    <div style="width: 1440px; height: 110px; left: 0px; top: 0px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div style="width: 1440px; height: 110px; position: relative; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+            <div style="width: 1440px; height: 110px; position: relative; background: white">
+                <div style="width: 104px; height: 20px; left: 219px; top: 45px; position: absolute"></div>
+                <div style="left: 219px; top: 37px; position: absolute; text-align: center; color: black; font-size: 30px; font-family: Roboto; font-weight: 500; word-wrap: break-word">HouseReady</div>
+                <div style="width: 47px; height: 47px; left: 157px; top: 25px; position: absolute">
+                    <div style="width: 44.06px; height: 38.19px; left: 0px; top: 5px; position: absolute; background: black"></div>
+                </div>
+            </div>
+            <div style="justify-content: flex-start; align-items: flex-start; gap: 60px; display: inline-flex">
+                <div style="flex-direction: column; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+                    <div style="color: #262626; font-size: 18px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Status</div>
+                </div>
+                <div style="justify-content: flex-start; align-items: flex-start; gap: 60px; display: flex">
+                    <div style="justify-content: flex-start; align-items: flex-start; display: flex">
+                        <div style="color: #262626; font-size: 18px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Suggestions</div>
+                    </div>
+                    <div style="justify-content: flex-start; align-items: flex-start; display: flex">
+                        <div style="color: #262626; font-size: 18px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Next Steps</div>
+                    </div>
+                    <div style="justify-content: flex-start; align-items: flex-start; display: flex">
+                        <div style="color: #262626; font-size: 18px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Analytics</div>
+                    </div>
+                    <div style="color: #262626; font-size: 18px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Profile</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div style="width: 1440px; height: 586px; left: 0px; top: 1588px; position: absolute">
+        <div style="width: 1440px; height: 586px; padding-top: 55px; padding-bottom: 55px; padding-left: 119px; padding-right: 845px; left: 0px; top: 0px; position: absolute; background: #C8DFD5; justify-content: flex-start; align-items: center; display: inline-flex">
+            <div style="width: 476px; align-self: stretch; justify-content: center; align-items: center; display: inline-flex">
+                <div style="width: 476.01px; height: 476px; background: black"></div>
+            </div>
+        </div>
+        <div style="width: 563px; height: 58px; padding-left: 20px; padding-right: 20px; padding-top: 16px; padding-bottom: 16px; left: 723px; top: 339px; position: absolute; background: white; border-radius: 6px; flex-direction: column; justify-content: center; align-items: flex-start; gap: 10px; display: inline-flex">
+            <div style="width: 523px; justify-content: space-between; align-items: center; display: inline-flex">
+                <div style="color: #262626; font-size: 22px; font-family: Roboto; font-weight: 500; word-wrap: break-word">How can I assess my 'HouseReady' status?</div>
+                <div style="width: 12px; height: 12px; background: #56B280"></div>
+            </div>
+        </div>
+        <div style="width: 563px; height: 84px; padding-left: 20px; padding-right: 20px; padding-top: 16px; padding-bottom: 16px; left: 720px; top: 442px; position: absolute; background: white; border-radius: 6px; flex-direction: column; justify-content: center; align-items: flex-start; gap: 10px; display: inline-flex">
+            <div style="width: 523px; justify-content: space-between; align-items: center; display: inline-flex">
+                <div style="width: 523px; color: #262626; font-size: 22px; font-family: Roboto; font-weight: 500; word-wrap: break-word">What if I'm not 'HouseReady' yet? What steps should I take?</div>
+                <div style="width: 12px; height: 12px; background: #56B280"></div>
+            </div>
+        </div>
+        <div style="left: 738px; top: 55px; position: absolute; color: #C8DFD5; font-size: 30px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Frequently asked questions</div>
+    </div>
+    <div style="width: 47px; height: 47px; left: 165px; top: 2401px; position: absolute">
+        <div style="width: 44.06px; height: 38.19px; left: 0px; top: 5px; position: absolute; background: white"></div>
+    </div>
+    <div style="width: 168px; height: 24.85px; left: 1075px; top: 2602px; position: absolute; color: #E1E1E1; font-size: 16px; font-family: Roboto; font-weight: 500; line-height: 28.80px; word-wrap: break-word">Help</div>
+    <div style="width: 563px; height: 181px; left: 720px; top: 1700px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <div style="padding-left: 20px; padding-right: 20px; padding-top: 16px; padding-bottom: 16px; background: white; border-radius: 6px; flex-direction: column; justify-content: center; align-items: flex-start; gap: 10px; display: inline-flex">
+            <div style="width: 523px; justify-content: center; align-items: center; gap: 108px; display: inline-flex">
+                <div style="width: 403px; color: #262626; font-size: 22px; font-family: Roboto; font-weight: 500; word-wrap: break-word">What does it mean to be 'HouseReady' for buying a home?</div>
+                <div style="width: 12px; height: 3px; background: #56B280"></div>
+            </div>
+            <div style="width: 523px; color: black; font-size: 18px; font-family: Roboto; font-weight: 400; line-height: 28.80px; word-wrap: break-word">Being ‘HouseReady” involves having a secure financial position, a realistic budget, and a clear understanding of the responsibilities and commitments associated with home-ownership.</div>
+        </div>
+    </div>
+    <div style="width: 313px; height: 90px; left: 185px; top: 1219px; position: absolute; text-align: center; color: #1D293F; font-size: 22px; font-family: Roboto; font-weight: 500; line-height: 28.80px; word-wrap: break-word">“They helped me create a solid plan, and I'm now a proud homeowner”</div>
+    <div style="width: 453px; height: 78px; left: 494px; top: 559px; position: absolute; text-align: center; color: white; font-size: 60px; font-family: Roboto; font-weight: 500; word-wrap: break-word">Eligibility Test</div>
+</div>
