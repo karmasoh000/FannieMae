@@ -1,0 +1,116 @@
+<div style="width: 100%; height: 100%; position: relative; background: white">
+    <div style="width: 1440px; height: 110px; left: 0px; top: 0px; position: absolute">
+        <div style="width: 1440px; height: 110px; left: 0px; top: 0px; position: absolute; background: white">
+            <div style="width: 104px; height: 20px; left: 219px; top: 45px; position: absolute"></div>
+            <div style="left: 219px; top: 37px; position: absolute; text-align: center; color: black; font-size: 30px; font-family: Roboto; font-weight: 500; word-wrap: break-word">HouseReady</div>
+            <div style="width: 47px; height: 47px; left: 157px; top: 25px; position: absolute">
+                <div style="width: 44.06px; height: 38.19px; left: 0px; top: 5px; position: absolute; background: black"></div>
+            </div>
+        </div>
+        <div style="left: 502.50px; top: 41.50px; position: absolute; justify-content: flex-start; align-items: flex-start; gap: 60px; display: inline-flex">
+            <div style="flex-direction: column; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+                <div style="color: #262626; font-size: 18px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Status</div>
+            </div>
+            <div style="justify-content: flex-start; align-items: flex-start; gap: 60px; display: flex">
+                <div style="justify-content: flex-start; align-items: flex-start; display: flex">
+                    <div style="color: #262626; font-size: 18px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Suggestions</div>
+                </div>
+                <div style="justify-content: flex-start; align-items: flex-start; display: flex">
+                    <div style="color: #262626; font-size: 18px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Next Steps</div>
+                </div>
+                <div style="justify-content: flex-start; align-items: flex-start; display: flex">
+                    <div style="color: #262626; font-size: 18px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Analytics</div>
+                </div>
+                <div style="color: #262626; font-size: 18px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Profile</div>
+            </div>
+        </div>
+    </div>
+    <div style="width: 1440px; height: 914px; left: 0px; top: 110px; position: absolute; background: #C8DFD5"></div>
+    <div style="width: 1440px; height: 914px; left: 0px; top: 110px; position: absolute; background: #C8DFD5">
+        <div style="width: 273px; padding-top: 6px; padding-bottom: 7px; left: 735px; top: 815px; position: absolute; background: #56B280; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 10px; overflow: hidden; justify-content: center; align-items: center; display: inline-flex">
+            <div style="text-align: center; color: white; font-size: 24px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Submit</div>
+        </div>
+        <div style="width: 12px; height: 13px; left: 158px; top: 137px; position: absolute">
+            <div style="width: 12px; height: 13px; left: 0px; top: 0px; position: absolute; background: #FF6666"></div>
+        </div>
+        <div style="left: 1020px; top: 821px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Roboto; font-weight: 400; word-wrap: break-word">OR</div>
+    </div>
+    <div style="left: 289px; top: 158px; position: absolute; text-align: center; color: black; font-size: 32px; font-family: Roboto; font-weight: 600; word-wrap: break-word">Please answer the following questions for housing eligibility</div>
+    <div style="width: 600px; height: 80px; left: 86px; top: 885px; position: absolute">
+        <div style="width: 600px; height: 41px; left: 0px; top: 39px; position: absolute; background: rgba(117, 175, 150, 0.40); border-radius: 10px"></div>
+        <div style="width: 508.88px; left: 0px; top: 0px; position: absolute; color: black; font-size: 24px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Q6: Appraised Value</div>
+        <div style="width: 12px; height: 13px; left: 226px; top: 1px; position: absolute">
+            <div style="width: 12px; height: 13px; left: 0px; top: 0px; position: absolute; background: #FF6666"></div>
+        </div>
+    </div>
+    <div style="width: 600px; height: 80px; left: 744px; top: 247px; position: absolute">
+        <div style="width: 600px; height: 41px; left: 0px; top: 39px; position: absolute; background: rgba(117, 175, 150, 0.40); border-radius: 10px"></div>
+        <div style="width: 508.88px; left: 0px; top: 0px; position: absolute; color: black; font-size: 24px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Q7: Down Payment</div>
+        <div style="width: 12px; height: 13px; left: 215px; top: 0px; position: absolute">
+            <div style="width: 12px; height: 13px; left: 0px; top: 0px; position: absolute; background: #FF6666"></div>
+        </div>
+    </div>
+    <div style="width: 600px; height: 80px; left: 744px; top: 377px; position: absolute">
+        <div style="width: 600px; height: 41px; left: 0px; top: 39px; position: absolute; background: rgba(117, 175, 150, 0.40); border-radius: 10px"></div>
+        <div style="width: 508.88px; left: 0px; top: 0px; position: absolute; color: black; font-size: 24px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Q8: Loan Amount</div>
+        <div style="width: 12px; height: 13px; left: 196px; top: 0px; position: absolute">
+            <div style="width: 12px; height: 13px; left: 0px; top: 0px; position: absolute; background: #FF6666"></div>
+        </div>
+    </div>
+    <div style="width: 600px; height: 80px; left: 744px; top: 507px; position: absolute">
+        <div style="width: 600px; height: 41px; left: 0px; top: 39px; position: absolute; background: rgba(117, 175, 150, 0.40); border-radius: 10px"></div>
+        <div style="width: 508.88px; left: 0px; top: 0px; position: absolute; color: black; font-size: 24px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Q9: Monthly Mortgage Payment</div>
+        <div style="width: 12px; height: 13px; left: 348px; top: 0px; position: absolute">
+            <div style="width: 12px; height: 13px; left: 0px; top: 0px; position: absolute; background: #FF6666"></div>
+        </div>
+    </div>
+    <div style="width: 600px; height: 80px; left: 744px; top: 637px; position: absolute">
+        <div style="width: 600px; height: 41px; left: 0px; top: 39px; position: absolute; background: rgba(117, 175, 150, 0.40); border-radius: 10px"></div>
+        <div style="width: 508.88px; left: 0px; top: 0px; position: absolute; color: black; font-size: 24px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Q10: Credit Score</div>
+        <div style="width: 12px; height: 13px; left: 202px; top: 0px; position: absolute">
+            <div style="width: 12px; height: 13px; left: 0px; top: 0px; position: absolute; background: #FF6666"></div>
+        </div>
+    </div>
+    <div style="width: 600px; height: 80px; left: 744px; top: 767px; position: absolute">
+        <div style="width: 600px; height: 41px; left: 0px; top: 39px; position: absolute; background: rgba(117, 175, 150, 0.40); border-radius: 10px"></div>
+        <div style="width: 508.88px; left: 0px; top: 0px; position: absolute; color: black; font-size: 24px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Q11: Private Mortgage Insurance (PMI) Rate</div>
+        <div style="width: 12px; height: 13px; left: 480px; top: 0px; position: absolute">
+            <div style="width: 12px; height: 13px; left: 0px; top: 0px; position: absolute; background: #FF6666"></div>
+        </div>
+    </div>
+    <div style="padding-top: 6px; padding-bottom: 7px; padding-left: 81px; padding-right: 79px; left: 1071px; top: 928px; position: absolute; background: #56B280; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 10px; overflow: hidden; justify-content: center; align-items: center; display: inline-flex">
+        <div style="text-align: center; color: white; font-size: 24px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Save Work</div>
+    </div>
+    <div style="height: 80px; left: 86.52px; top: 245px; position: absolute">
+        <div style="width: 600px; height: 41px; left: 0px; top: 39px; position: absolute; background: rgba(117, 175, 150, 0.40); border-radius: 10px"></div>
+        <div style="width: 111.75px; left: 0px; top: 0px; position: absolute; color: black; font-size: 24px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Q1: ID</div>
+    </div>
+    <div style="width: 600px; height: 80px; left: 86.52px; top: 375px; position: absolute">
+        <div style="width: 600px; height: 41px; left: 0px; top: 39px; position: absolute; background: rgba(117, 175, 150, 0.40); border-radius: 10px"></div>
+        <div style="width: 486.53px; left: 0px; top: 0px; position: absolute; color: black; font-size: 24px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Q2: Gross Monthly Income </div>
+        <div style="width: 12px; height: 13px; left: 293.48px; top: 1px; position: absolute">
+            <div style="width: 12px; height: 13px; left: 0px; top: 0px; position: absolute; background: #FF6666"></div>
+        </div>
+    </div>
+    <div style="width: 600px; height: 80px; left: 86.52px; top: 505px; position: absolute">
+        <div style="width: 600px; height: 41px; left: 0px; top: 39px; position: absolute; background: rgba(117, 175, 150, 0.40); border-radius: 10px"></div>
+        <div style="width: 450.43px; left: 0px; top: 0px; position: absolute; color: black; font-size: 24px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Q3: Credit Card Payment</div>
+        <div style="width: 12px; height: 13px; left: 272.48px; top: 0px; position: absolute">
+            <div style="width: 12px; height: 13px; left: 0px; top: 0px; position: absolute; background: #FF6666"></div>
+        </div>
+    </div>
+    <div style="width: 600px; height: 80px; left: 86.52px; top: 635px; position: absolute">
+        <div style="width: 600px; height: 41px; left: 0px; top: 39px; position: absolute; background: rgba(117, 175, 150, 0.40); border-radius: 10px"></div>
+        <div style="width: 307.74px; left: 0px; top: 0px; position: absolute; color: black; font-size: 24px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Q4: Car Payment</div>
+        <div style="width: 12px; height: 13px; left: 189.48px; top: 1px; position: absolute">
+            <div style="width: 12px; height: 13px; left: 0px; top: 0px; position: absolute; background: #FF6666"></div>
+        </div>
+    </div>
+    <div style="width: 600px; height: 80px; left: 86.52px; top: 765px; position: absolute">
+        <div style="width: 600px; height: 41px; left: 0px; top: 39px; position: absolute; background: rgba(117, 175, 150, 0.40); border-radius: 10px"></div>
+        <div style="width: 508.88px; left: 0px; top: 0px; position: absolute; color: black; font-size: 24px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Q5: Student Loan Payments</div>
+        <div style="width: 12px; height: 13px; left: 303.48px; top: 0px; position: absolute">
+            <div style="width: 12px; height: 13px; left: 0px; top: 0px; position: absolute; background: #FF6666"></div>
+        </div>
+    </div>
+</div>
