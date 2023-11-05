@@ -1,0 +1,36 @@
+var ID = window.prompt("Enter ID: ");
+document.write(ID);
+
+var grossMonthlyIncome = window.prompt("Enter the Gross Monthly Income: " );
+document.write(grossMonthlyIncome);
+
+var CreditCardPayment = window.prompt("Enter the credit card payment: ");
+document.write(CreditCardPayment);
+
+var CarPayment = window.prompt("Enter the car payment: ");
+document.write(CarPayment);
+
+var StudentLoanPayments = window.prompt("Enter the student loan payments: ");
+document.write(StudentLoanPayments);
+
+var AppraisedValue = window.prompt("Enter the appraised value: ");
+document.write(AppraisedValue);
+
+var DownPayment = window.prompt("Enter the down payment: ");
+document.write(DownPayment);
+
+var LoanAmount = window.prompt("Enter the loan amount: ");
+document.write(LoanAmount);
+
+var MonthlyMortgagePayment = window.prompt("Enter the monthly mortgage payment: ");
+document.write(MonthlyMortgagePayment);
+
+var CreditScore= window.prompt("Enter the credit score: ");
+document.write(CreditScore);
+
+
+
+
+
+
+
